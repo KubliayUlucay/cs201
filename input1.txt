@@ -1,0 +1,4 @@
+3
++ 5x3y2+3x2y4 5x2y4+2x  
+- 2xyz+4y 2xyz+4y
+* x+y+z x+y+z  
